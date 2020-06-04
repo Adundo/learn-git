@@ -1,6 +1,5 @@
 # learn-git
-learning how to use git and github
+  learning how to use git and github
 
-
-##version control
-Some text here
+ ##version control
+  Some text here
